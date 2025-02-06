@@ -11,3 +11,7 @@
 - [✂Templatemaker ︎](https://www.templatemaker.nl/en/)
 - [Calendário](https://neatnik.net/calendar/)
 - [NotebookLM](https://notebooklm.google.com)
+- [Vulgate](https://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2Cauthor%2CVulgate)
+- [Hacklily](https://www.hacklily.org)
+- [Vocabulary on Latin is Simple](https://www.latin-is-simple.com/en/vocabulary/)
+- [LocalSend - Open-Source AirDrop](https://localsend.org)
