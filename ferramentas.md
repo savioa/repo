@@ -15,3 +15,4 @@
 - [Hacklily](https://www.hacklily.org)
 - [Vocabulary on Latin is Simple](https://www.latin-is-simple.com/en/vocabulary/)
 - [LocalSend - Open-Source AirDrop](https://localsend.org)
+- [MuscleWiki](https://musclewiki.com)
